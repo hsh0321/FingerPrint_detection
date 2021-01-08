@@ -11,7 +11,7 @@ Fingerprint detection using OpenCV
  * SDK, Library　 　:	**OpenCV**
 
 ## Features ❗ :
- * 지문 프로젝트 : 가버 필터링 및 
+ * 지문 프로젝트 : 이미지 강화 (정규화, Gabor 필터 적용)
 
 
 ## Image ❗ :
