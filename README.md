@@ -10,7 +10,7 @@ Fingerprint detection using OpenCV
 
 ## Project Info ❓ :
 
- * IDE 　　　　　 : 	**Visual Studio 2019** - 2020-03
+ * IDE 　　　　　 : 	**Visual Studio 2019** - 2020-03.
  * Language　　　: **C++**
  * SDK, Library　 　:	**OpenCV**
 
